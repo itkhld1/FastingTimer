@@ -1,6 +1,7 @@
-<h1 align="center">FastingTimer</h1>
+<h1 align="center">Fasting Timer</h1>
 
 <p align="center">FastingTimer is a SwiftUI-based iOS application designed to assist users in tracking their fasting periods.</p>
+<p align="center">˚˚˚</p>
 
 ## Introduction
 
