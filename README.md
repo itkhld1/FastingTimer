@@ -8,6 +8,7 @@
 <p float="left">
   <img width="240" src="FastingTimer/Screenshots/Screen Shot 2024-03-19 at 12.45.31.png">
   <img width="240" src="FastingTimer/Screenshots/Screen Shot 2024-03-19 at 12.49.53.png">
+  <img width="240" src="FastingTimer/Screenshots/Screen Shot 2024-03-19 at 12.50.00.png">
 </p>
 
 
