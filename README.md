@@ -3,6 +3,13 @@
 <p align="center">FastingTimer is a SwiftUI-based iOS application designed to assist users in tracking their fasting periods.</p>
 <p align="center">˚˚˚</p>
 
+## 📷 Screenshots
+
+<p float="left">
+  <img width="240" src="FastingTimer/Screenshots/Screen Shot 2024-03-19 at 12.45.31.png"
+</p>
+
+
 ## Introduction
 
 Fasting has gained popularity as a health practice for various benefits, including weight loss and improved metabolic health. FastingTimer offers a user-friendly interface to monitor fasting and feeding periods, helping users stay on track with their fasting goals.
